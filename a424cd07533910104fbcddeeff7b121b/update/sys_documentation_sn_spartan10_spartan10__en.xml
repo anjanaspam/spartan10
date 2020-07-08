@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="spartan10" language="en" table="sn_spartan10_spartan10">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>spartan10</label>
+            <language>en</language>
+            <name>sn_spartan10_spartan10</name>
+            <plural>spartan10s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-08 19:40:05</sys_created_on>
+            <sys_id>d1640547533910104fbcddeeff7b126b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>spartan10</sys_name>
+            <sys_package display_value="spartan10" source="sn_spartan10">a424cd07533910104fbcddeeff7b121b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="spartan10">a424cd07533910104fbcddeeff7b121b</sys_scope>
+            <sys_update_name>sys_documentation_sn_spartan10_spartan10__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-08 19:40:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
